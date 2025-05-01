@@ -1,12 +1,12 @@
 {
-  "name": "terminator QR",
+  "name": "Hamixhacker",
   "version": "1.0",
-  "description": "violence war bot created by iconic tech",
+  "description": "violence war bot created by Hami hacker",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "iconic tech",
+  "author": "Hammad Hacker",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
